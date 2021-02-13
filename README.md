@@ -11,8 +11,7 @@
 #### Application is run in console
 ## Inputs:
 #### xDy+z
-where:
-
-y – type of dice ( D3, D4, D6, D8, D10, D12, D20, D100 )
-x – number of dice throws - if throw once value is empty
+where:<br/>
+y – type of dice ( D3, D4, D6, D8, D10, D12, D20, D100 )<br/>
+x – number of dice throws - if throw once value is empty<br/>
 z – number that should be added ( or subtract ) from throws result. It is aptional.
